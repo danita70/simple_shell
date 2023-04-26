@@ -1,2 +1,1 @@
-# simple_shell
-C - Simple Shell
+This project is **C - Simple Shell** project by Sador Kassa and Million Tenkir
